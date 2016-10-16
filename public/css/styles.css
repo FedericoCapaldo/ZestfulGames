@@ -1,7 +1,12 @@
 body {
-  background-color: grey;
+  background-color: #153000;
+  color: wheat;
 }
 
 .main {
   text-align: center;
+}
+
+.segue {
+  font-size: 12px;
 }
