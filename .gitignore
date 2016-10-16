@@ -1,0 +1,5 @@
+//envrionment variables
+.env
+
+//no push for node_modules folder
+node_modules
